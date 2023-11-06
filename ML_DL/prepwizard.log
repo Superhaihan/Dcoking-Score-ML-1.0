@@ -1,0 +1,54 @@
+
+Assigned bond orders to the workspace, while skipping residues with existing double & triple bonds
+  No bond orders were changed
+
+Added hydrogens to the Workspace structure
+
+Treated metals in the Workspace structure
+  Created disulfide bonds: []
+  NEW HET 1 atoms: [8977, 8978, 8979, 8980, 8981, 8982, 8983, 8984, 8985, 8986, 8987, 8988, 8989, 8990, 8991, 8992, 8993, 8994, 8995, 8996, 8997, 8998, 8999, 9000, 9001, 9002, 9003, 9004, 9005]
+  NEW HET 2 atoms: [9006, 9007, 9008, 9009, 9010, 9011, 9012, 9013, 9014, 9015, 9016, 9017, 9018, 9019, 9020, 9021, 9022, 9023, 9024, 9025, 9026, 9027, 9028, 9029, 9030, 9031, 9032, 9033, 9034]
+  NEW HET 3 atoms: [9035, 9036, 9037, 9038]
+  NEW HET 4 atoms: [9039, 9040, 9041, 9042, 9043, 9044, 9045, 9046, 9047, 9048, 9049, 9050, 9051, 9052, 9053, 9054, 9055, 9056, 9057, 9058, 9059, 9060, 9061, 9062, 9063, 9064, 9065, 9066, 9067]
+  NEW HET 5 atoms: [9068, 9069, 9070, 9071, 9072, 9073, 9074, 9075, 9076, 9077, 9078, 9079, 9080, 9081, 9082, 9083, 9084, 9085, 9086, 9087, 9088, 9089, 9090, 9091, 9092, 9093, 9094, 9095, 9096]
+  NEW HET 6 atoms: [9097, 9098, 9099, 9100]
+
+Found 982 waters
+
+Generated ionization/tautomeric states for all het groups
+Epik job ({job_id}) incorporated.
+
+The following atoms (15) were overlapping: (495, 9114), (495, 18964), (12058, 18959), (12556, 19409), (13363, 19445), (15215, 19930), (18546, 20442), (20662, 20805)
+
+Filled missing residue atoms.
+
+The following atoms (15) were overlapping: (489, 9054), (489, 18724), (11953, 18719), (12442, 19169), (13228, 19205), (15026, 19690), (18315, 20202), (20422, 20565)
+
+The following atoms (15) were overlapping: (489, 9054), (489, 18724), (11953, 18719), (12442, 19169), (13228, 19205), (15026, 19690), (18315, 20202), (20422, 20565)
+
+Assigned bond orders to the workspace, while skipping residues with existing double & triple bonds
+  No bond orders were changed
+
+Added hydrogens to the Workspace structure
+
+Treated metals in the Workspace structure
+  Created disulfide bonds: []
+
+Deleted waters farther than 5.0 angstroms from hets
+  NEW HET 1 atoms: [2201, 2202, 2203, 2204, 2205, 2206, 2207, 2208, 2209, 2210, 2211, 2212, 2213, 2214, 2215, 2216, 2217, 2218, 2219, 2220, 2221, 2222, 2223, 2224, 2225, 2226, 2227, 2228, 2229]
+  NEW HET 2 atoms: [2230, 2231, 2232, 2233, 2234, 2235, 2236, 2237, 2238, 2239, 2240, 2241, 2242, 2243, 2244, 2245, 2246, 2247, 2248, 2249, 2250, 2251, 2252, 2253, 2254, 2255, 2256, 2257, 2258]
+  NEW HET 3 atoms: [2259, 2260, 2261, 2262]
+  NEW HET 4 atoms: [2263, 2264, 2265, 2266, 2267, 2268, 2269, 2270, 2271, 2272, 2273, 2274, 2275, 2276, 2277, 2278, 2279, 2280, 2281, 2282, 2283, 2284, 2285, 2286, 2287, 2288, 2289, 2290, 2291]
+  NEW HET 5 atoms: [2292, 2293, 2294, 2295, 2296, 2297, 2298, 2299, 2300, 2301, 2302, 2303, 2304, 2305, 2306, 2307, 2308, 2309, 2310, 2311, 2312, 2313, 2314, 2315, 2316, 2317, 2318, 2319, 2320]
+  NEW HET 6 atoms: [2321, 2322, 2323, 2324]
+
+Found 85 waters
+
+Generated ionization/tautomeric states for all het groups
+Epik job ({job_id}) incorporated.
+Optimize H-bonds job has completed
+
+Deleted waters farther than 3.0 angstroms from hets
+
+Found 18 waters
+Restrained minimization job has completed

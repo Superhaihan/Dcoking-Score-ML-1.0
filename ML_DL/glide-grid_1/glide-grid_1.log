@@ -1,0 +1,42 @@
+Glide version 91117 (mmshare version 54117)
+mmshare         3f51de5f41
+glide-src       6ab9bc76b5
+psp-src         eb99070e3c
+macromodel-src  9e7af5275d
+epik-src        742b4da294
+
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : cadd90-0-6407eb28
+Name           : glide-grid_1
+Program        : Glide
+Host           : cadd90
+Dir            : /cadd2/users/wangxiao/docking/IRAK4/glide-grid_1
+HostEntry      : localhost
+JobHost        : cadd90
+JobDir         : /tmp/sdr21/sdr21/glide-grid_1
+JobSchrodinger : /home/sdr21/schrodinger21-2_crack
+Commandline    : /home/sdr21/schrodinger21-2_crack/glide glide-grid_1.in -OVERWRITE -HOST localhost -PROJ /home/sdr21/.schrodinger/tmp/Tmp_08Mar2023_0855_44179 -DISP ignore -VIEWNAME glide_gridgen_gui.GridGenPanel -TMPLAUNCHDIR
+StartTime      : 2023-03-08-09:55:53
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Calling OPLS_2005 atomtyping ...
+Finished parameter assignment
+ VdW radii of protein atoms scaled by    1.00000000000000     
+ Charge cutoff for polarity  0.250000000000000     
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           24 , 
+          24 ,           24 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          64 ,           64 , 
+          64 ).
+Creating output grid archive 'glide-grid_1.zip'
+
+Exiting Glide
+Date: Wednesday, March 08 2023, at 09:57:09 CST
+CPU time (s): 40.4 user, 0.6 system, 73.6 real
+Total elapsed time = 74 seconds (1 minutes, 14 seconds)
+[running at reduced cpu priority]

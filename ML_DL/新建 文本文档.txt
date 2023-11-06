@@ -1,0 +1,402 @@
+E:\anaconda3\envs\pyg2\python.exe D:/desktop/测试2/IRAK4/合成的训练加权重.py
+78
+0
+total_loss :980.5059498858172
+Train Accuracy: 0.7806
+Test Accuracy: 0.7978
+1
+total_loss :763.9334932583733
+Train Accuracy: 0.7971
+Test Accuracy: 0.8088
+2
+total_loss :688.7638651652087
+Train Accuracy: 0.8164
+Test Accuracy: 0.8132
+3
+total_loss :648.71556706087
+Train Accuracy: 0.8373
+Test Accuracy: 0.8088
+4
+total_loss :624.8275418219146
+Train Accuracy: 0.8450
+Test Accuracy: 0.8132
+5
+total_loss :607.8765663346567
+Train Accuracy: 0.8494
+Test Accuracy: 0.8176
+6
+total_loss :594.2485250423742
+Train Accuracy: 0.8510
+Test Accuracy: 0.8198
+7
+total_loss :583.2753533257269
+Train Accuracy: 0.8521
+Test Accuracy: 0.8176
+8
+total_loss :573.3470971457621
+Train Accuracy: 0.8582
+Test Accuracy: 0.8220
+9
+total_loss :564.1661443201908
+Train Accuracy: 0.8598
+Test Accuracy: 0.8242
+10
+total_loss :555.2750771319631
+Train Accuracy: 0.8593
+Test Accuracy: 0.8308
+11
+total_loss :546.8946366909488
+Train Accuracy: 0.8653
+Test Accuracy: 0.8308
+12
+total_loss :539.120281436619
+Train Accuracy: 0.8675
+Test Accuracy: 0.8330
+13
+total_loss :530.7617422936207
+Train Accuracy: 0.8725
+Test Accuracy: 0.8352
+14
+total_loss :523.2119666672335
+Train Accuracy: 0.8719
+Test Accuracy: 0.8308
+15
+total_loss :516.3654541915189
+Train Accuracy: 0.8736
+Test Accuracy: 0.8264
+16
+total_loss :508.9504141451638
+Train Accuracy: 0.8752
+Test Accuracy: 0.8242
+17
+total_loss :501.7683863850125
+Train Accuracy: 0.8758
+Test Accuracy: 0.8220
+18
+total_loss :494.2217594090017
+Train Accuracy: 0.8802
+Test Accuracy: 0.8286
+19
+total_loss :486.65085332536296
+Train Accuracy: 0.8846
+Test Accuracy: 0.8264
+20
+total_loss :478.34757876419127
+Train Accuracy: 0.8873
+Test Accuracy: 0.8264
+21
+total_loss :470.4050100067062
+Train Accuracy: 0.8928
+Test Accuracy: 0.8264
+22
+total_loss :461.56515662061497
+Train Accuracy: 0.8966
+Test Accuracy: 0.8352
+23
+total_loss :452.7770423503687
+Train Accuracy: 0.8994
+Test Accuracy: 0.8440
+24
+total_loss :444.1274273205495
+Train Accuracy: 0.9005
+Test Accuracy: 0.8352
+25
+total_loss :434.9130430064078
+Train Accuracy: 0.9021
+Test Accuracy: 0.8286
+26
+total_loss :429.2011634888955
+Train Accuracy: 0.9043
+Test Accuracy: 0.8286
+27
+total_loss :419.0351923434306
+Train Accuracy: 0.9043
+Test Accuracy: 0.8264
+28
+total_loss :410.83959418802436
+Train Accuracy: 0.9065
+Test Accuracy: 0.8220
+29
+total_loss :401.14522315150475
+Train Accuracy: 0.9104
+Test Accuracy: 0.8264
+30
+total_loss :393.9533585593983
+Train Accuracy: 0.9109
+Test Accuracy: 0.8264
+31
+total_loss :387.04168522309345
+Train Accuracy: 0.9153
+Test Accuracy: 0.8242
+32
+total_loss :377.3721599846856
+Train Accuracy: 0.9186
+Test Accuracy: 0.8242
+33
+total_loss :369.7058541246763
+Train Accuracy: 0.9214
+Test Accuracy: 0.8242
+34
+total_loss :359.97303625122146
+Train Accuracy: 0.9247
+Test Accuracy: 0.8286
+35
+total_loss :352.96069341230714
+Train Accuracy: 0.9247
+Test Accuracy: 0.8242
+36
+total_loss :343.48139909871355
+Train Accuracy: 0.9280
+Test Accuracy: 0.8286
+37
+total_loss :336.3685696823494
+Train Accuracy: 0.9274
+Test Accuracy: 0.8286
+38
+total_loss :332.73216817500133
+Train Accuracy: 0.9313
+Test Accuracy: 0.8242
+39
+total_loss :321.6599688602818
+Train Accuracy: 0.9296
+Test Accuracy: 0.8264
+40
+total_loss :314.2029706606668
+Train Accuracy: 0.9324
+Test Accuracy: 0.8330
+41
+total_loss :308.04852024257906
+Train Accuracy: 0.9340
+Test Accuracy: 0.8286
+42
+total_loss :296.86895892190785
+Train Accuracy: 0.9329
+Test Accuracy: 0.8330
+43
+total_loss :291.9379741512347
+Train Accuracy: 0.9384
+Test Accuracy: 0.8308
+44
+total_loss :282.3684714667228
+Train Accuracy: 0.9379
+Test Accuracy: 0.8220
+45
+total_loss :276.35377095513536
+Train Accuracy: 0.9406
+Test Accuracy: 0.8308
+46
+total_loss :265.12133185384147
+Train Accuracy: 0.9428
+Test Accuracy: 0.8132
+47
+total_loss :256.88980826617603
+Train Accuracy: 0.9450
+Test Accuracy: 0.8198
+48
+total_loss :257.707366853165
+Train Accuracy: 0.9461
+Test Accuracy: 0.8374
+49
+total_loss :250.09750875477712
+Train Accuracy: 0.9456
+Test Accuracy: 0.8330
+50
+total_loss :266.50668105071685
+Train Accuracy: 0.9489
+Test Accuracy: 0.8220
+51
+total_loss :232.6596037426731
+Train Accuracy: 0.9445
+Test Accuracy: 0.8264
+52
+total_loss :229.52570117013303
+Train Accuracy: 0.9544
+Test Accuracy: 0.8110
+53
+total_loss :221.98813159189675
+Train Accuracy: 0.9544
+Test Accuracy: 0.8132
+54
+total_loss :210.76763925890958
+Train Accuracy: 0.9549
+Test Accuracy: 0.8242
+55
+total_loss :237.6746820269748
+Train Accuracy: 0.9467
+Test Accuracy: 0.8264
+56
+total_loss :197.16349088705297
+Train Accuracy: 0.9571
+Test Accuracy: 0.8154
+57
+total_loss :187.05303959262486
+Train Accuracy: 0.9599
+Test Accuracy: 0.8198
+58
+total_loss :194.7655449952172
+Train Accuracy: 0.9549
+Test Accuracy: 0.8154
+59
+total_loss :184.08771785864414
+Train Accuracy: 0.9582
+Test Accuracy: 0.8220
+60
+total_loss :174.00534457232334
+Train Accuracy: 0.9263
+Test Accuracy: 0.8000
+61
+total_loss :195.57844360031825
+Train Accuracy: 0.9544
+Test Accuracy: 0.8286
+62
+total_loss :166.6484273222196
+Train Accuracy: 0.9621
+Test Accuracy: 0.8132
+63
+total_loss :163.17937423144105
+Train Accuracy: 0.9533
+Test Accuracy: 0.8110
+64
+total_loss :198.6419690095904
+Train Accuracy: 0.9434
+Test Accuracy: 0.8308
+65
+total_loss :148.98694875599358
+Train Accuracy: 0.9637
+Test Accuracy: 0.8088
+66
+total_loss :138.12476744644445
+Train Accuracy: 0.9626
+Test Accuracy: 0.8154
+67
+total_loss :145.66352542623986
+Train Accuracy: 0.9637
+Test Accuracy: 0.8110
+68
+total_loss :176.33336577459272
+Train Accuracy: 0.9313
+Test Accuracy: 0.8198
+69
+total_loss :127.00977780749042
+Train Accuracy: 0.9720
+Test Accuracy: 0.8154
+70
+total_loss :116.0595612604607
+Train Accuracy: 0.9654
+Test Accuracy: 0.8154
+71
+total_loss :111.65944212324752
+Train Accuracy: 0.9703
+Test Accuracy: 0.8264
+72
+total_loss :143.1321384986945
+Train Accuracy: 0.9412
+Test Accuracy: 0.8198
+73
+total_loss :121.69877159187683
+Train Accuracy: 0.9714
+Test Accuracy: 0.8132
+74
+total_loss :109.10413902344445
+Train Accuracy: 0.9714
+Test Accuracy: 0.8110
+75
+total_loss :114.35292270225645
+Train Accuracy: 0.9599
+Test Accuracy: 0.8220
+76
+total_loss :95.95539896647429
+Train Accuracy: 0.9698
+Test Accuracy: 0.8242
+77
+total_loss :96.44092176609348
+Train Accuracy: 0.9731
+Test Accuracy: 0.8198
+78
+total_loss :124.81299212842606
+Train Accuracy: 0.9703
+Test Accuracy: 0.8330
+79
+total_loss :118.94316085623777
+Train Accuracy: 0.9753
+Test Accuracy: 0.8242
+80
+total_loss :113.14382927364647
+Train Accuracy: 0.9659
+Test Accuracy: 0.8132
+81
+total_loss :81.62334376830322
+Train Accuracy: 0.9758
+Test Accuracy: 0.8110
+82
+total_loss :76.2501374689677
+Train Accuracy: 0.9703
+Test Accuracy: 0.8088
+83
+total_loss :73.30827417806788
+Train Accuracy: 0.9681
+Test Accuracy: 0.8066
+84
+total_loss :65.7497126725664
+Train Accuracy: 0.9764
+Test Accuracy: 0.8044
+85
+total_loss :134.83425670428107
+Train Accuracy: 0.9742
+Test Accuracy: 0.8154
+86
+total_loss :70.05973838534837
+Train Accuracy: 0.9830
+Test Accuracy: 0.8286
+87
+total_loss :94.52884789735444
+Train Accuracy: 0.9731
+Test Accuracy: 0.8220
+88
+total_loss :59.444750051724704
+Train Accuracy: 0.9841
+Test Accuracy: 0.8154
+89
+total_loss :95.04684373724885
+Train Accuracy: 0.9802
+Test Accuracy: 0.8220
+90
+total_loss :65.27909152563507
+Train Accuracy: 0.9802
+Test Accuracy: 0.8132
+91
+total_loss :62.93017517784857
+Train Accuracy: 0.9780
+Test Accuracy: 0.8176
+92
+total_loss :90.59229453017647
+Train Accuracy: 0.9714
+Test Accuracy: 0.8044
+93
+total_loss :73.98046890522909
+Train Accuracy: 0.9835
+Test Accuracy: 0.8044
+94
+total_loss :104.26922434396153
+Train Accuracy: 0.9621
+Test Accuracy: 0.8220
+95
+total_loss :55.469593715613385
+Train Accuracy: 0.9907
+Test Accuracy: 0.8110
+96
+total_loss :57.34076245160735
+Train Accuracy: 0.8928
+Test Accuracy: 0.7692
+97
+total_loss :73.93920923872969
+Train Accuracy: 0.9687
+Test Accuracy: 0.8132
+98
+total_loss :131.33786848684073
+Train Accuracy: 0.9857
+Test Accuracy: 0.8242
+99
+total_loss :67.63711746140552
+Train Accuracy: 0.9912
+Test Accuracy: 0.8176

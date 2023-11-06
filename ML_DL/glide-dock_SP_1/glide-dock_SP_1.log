@@ -1,0 +1,184 @@
+
+====================================
+            Glide Script            
+====================================
+
+mmshare         3f51de5f41
+glide-src       6ab9bc76b5
+psp-src         eb99070e3c
+macromodel-src  9e7af5275d
+epik-src        742b4da294
+
+--------------------------------------------------------------------------------
+JobId          : cadd90-0-6408212f
+Name           : glide-dock_SP_1
+Program        : Glide
+Host           : cadd90
+Dir            : /cadd2/users/wangxiao/docking/IRAK4/glide-dock_SP_1
+HostEntry      : localhost
+JobHost        : cadd90
+JobDir         : /tmp/sdr21/sdr21/glide-dock_SP_1
+JobSchrodinger : /home/sdr21/schrodinger21-2_crack
+Commandline    : /home/sdr21/schrodinger21-2_crack/glide glide-dock_SP_1.in -OVERWRITE -adjust -HOST localhost:27 -PROJ /home/sdr21/.schrodinger/tmp/Tmp_08Mar2023_1344_47567 -DISP append -VIEWNAME glide_docking_gui.DockingPanel -TMPLAUNCHDIR
+StartTime      : 2023-03-08-13:46:23
+--------------------------------------------------------------------------------
+
+Running locally: False
+Max retries: 2
+Input file: glide-dock_SP_1.in
+
+Setting up docking job
+Separating ligands...
+.....                                                   5618
+Number of structures that are to be docked: 5618
+Setting up Glide docking jobs...
+
+Running subjobs on hosts:
+  localhost (Max: 27)
+Number of jobs:       54
+Max retries per job:  2
+Max allowed failures: unlimited
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+ C  A  W | Activity  JobId  JobName  JobHost
+-- -- -- | --------- -----------------------
+ 0  1 53 | launched  cadd90-0-64082141 glide-dock_SP_1-0001 localhost [cadd90]
+ 0  2 52 | launched  cadd90-0-64082147 glide-dock_SP_1-0002 localhost [cadd90]
+ 0  3 51 | launched  cadd90-0-6408214e glide-dock_SP_1-0003 localhost [cadd90]
+ 0  4 50 | launched  cadd90-0-64082155 glide-dock_SP_1-0004 localhost [cadd90]
+ 0  5 49 | launched  cadd90-0-6408215b glide-dock_SP_1-0005 localhost [cadd90]
+ 0  6 48 | launched  cadd90-0-64082164 glide-dock_SP_1-0006 localhost [cadd90]
+ 0  7 47 | launched  cadd90-0-6408216b glide-dock_SP_1-0007 localhost [cadd90]
+ 0  8 46 | launched  cadd90-0-64082172 glide-dock_SP_1-0008 localhost [cadd90]
+ 0  9 45 | launched  cadd90-0-64082179 glide-dock_SP_1-0009 localhost [cadd90]
+ 0 10 44 | launched  cadd90-0-64082180 glide-dock_SP_1-0010 localhost [cadd90]
+ 0 11 43 | launched  cadd90-0-64082189 glide-dock_SP_1-0011 localhost [cadd90]
+ 0 12 42 | launched  cadd90-0-64082191 glide-dock_SP_1-0012 localhost [cadd90]
+ 0 13 41 | launched  cadd90-0-64082198 glide-dock_SP_1-0013 localhost [cadd90]
+ 0 14 40 | launched  cadd90-0-6408219f glide-dock_SP_1-0014 localhost [cadd90]
+ 0 15 39 | launched  cadd90-0-640821a6 glide-dock_SP_1-0015 localhost [cadd90]
+ 0 16 38 | launched  cadd90-0-640821ae glide-dock_SP_1-0016 localhost [cadd90]
+ 0 17 37 | launched  cadd90-0-640821b6 glide-dock_SP_1-0017 localhost [cadd90]
+ 0 18 36 | launched  cadd90-0-640821be glide-dock_SP_1-0018 localhost [cadd90]
+ 0 19 35 | launched  cadd90-0-640821c6 glide-dock_SP_1-0019 localhost [cadd90]
+ 0 20 34 | launched  cadd90-0-640821cf glide-dock_SP_1-0020 localhost [cadd90]
+ 0 21 33 | launched  cadd90-0-640821d9 glide-dock_SP_1-0021 localhost [cadd90]
+ 0 22 32 | launched  cadd90-0-640821e2 glide-dock_SP_1-0022 localhost [cadd90]
+ 0 23 31 | launched  cadd90-0-640821ec glide-dock_SP_1-0023 localhost [cadd90]
+ 0 24 30 | launched  cadd90-0-640821f4 glide-dock_SP_1-0024 localhost [cadd90]
+ 0 25 29 | launched  cadd90-0-640821fe glide-dock_SP_1-0025 localhost [cadd90]
+ 0 26 28 | launched  cadd90-0-64082207 glide-dock_SP_1-0026 localhost [cadd90]
+ 0 27 27 | launched  cadd90-0-64082210 glide-dock_SP_1-0027 localhost [cadd90]
+ 1 26 27 | finished  cadd90-0-6408215b glide-dock_SP_1-0005 localhost [cadd90]
+ 1 27 26 | launched  cadd90-0-64082727 glide-dock_SP_1-0028 localhost [cadd90]
+ 2 26 26 | finished  cadd90-0-64082172 glide-dock_SP_1-0008 localhost [cadd90]
+ 2 27 25 | launched  cadd90-0-6408272f glide-dock_SP_1-0029 localhost [cadd90]
+ 3 26 25 | finished  cadd90-0-640821b6 glide-dock_SP_1-0017 localhost [cadd90]
+ 3 27 24 | launched  cadd90-0-6408279f glide-dock_SP_1-0030 localhost [cadd90]
+ 4 26 24 | finished  cadd90-0-64082198 glide-dock_SP_1-0013 localhost [cadd90]
+ 4 27 23 | launched  cadd90-0-6408280e glide-dock_SP_1-0031 localhost [cadd90]
+ 5 26 23 | finished  cadd90-0-64082141 glide-dock_SP_1-0001 localhost [cadd90]
+ 5 27 22 | launched  cadd90-0-64082824 glide-dock_SP_1-0032 localhost [cadd90]
+ 6 26 22 | finished  cadd90-0-640821ec glide-dock_SP_1-0023 localhost [cadd90]
+ 6 27 21 | launched  cadd90-0-64082850 glide-dock_SP_1-0033 localhost [cadd90]
+ 7 26 21 | finished  cadd90-0-6408214e glide-dock_SP_1-0003 localhost [cadd90]
+ 7 27 20 | launched  cadd90-0-64082869 glide-dock_SP_1-0034 localhost [cadd90]
+ 8 26 20 | finished  cadd90-0-64082147 glide-dock_SP_1-0002 localhost [cadd90]
+ 8 27 19 | launched  cadd90-0-640828ef glide-dock_SP_1-0035 localhost [cadd90]
+ 9 26 19 | finished  cadd90-0-640821be glide-dock_SP_1-0018 localhost [cadd90]
+10 25 19 | finished  cadd90-0-640821f4 glide-dock_SP_1-0024 localhost [cadd90]
+10 26 18 | launched  cadd90-0-6408290b glide-dock_SP_1-0036 localhost [cadd90]
+10 27 17 | launched  cadd90-0-64082914 glide-dock_SP_1-0037 localhost [cadd90]
+11 26 17 | finished  cadd90-0-640821c6 glide-dock_SP_1-0019 localhost [cadd90]
+11 27 16 | launched  cadd90-0-6408291d glide-dock_SP_1-0038 localhost [cadd90]
+12 26 16 | finished  cadd90-0-640821d9 glide-dock_SP_1-0021 localhost [cadd90]
+12 27 15 | launched  cadd90-0-64082925 glide-dock_SP_1-0039 localhost [cadd90]
+13 26 15 | finished  cadd90-0-640821a6 glide-dock_SP_1-0015 localhost [cadd90]
+13 27 14 | launched  cadd90-0-64082935 glide-dock_SP_1-0040 localhost [cadd90]
+14 26 14 | finished  cadd90-0-640821ae glide-dock_SP_1-0016 localhost [cadd90]
+15 25 14 | finished  cadd90-0-640821cf glide-dock_SP_1-0020 localhost [cadd90]
+15 26 13 | launched  cadd90-0-6408293f glide-dock_SP_1-0041 localhost [cadd90]
+15 27 12 | launched  cadd90-0-64082947 glide-dock_SP_1-0042 localhost [cadd90]
+16 26 12 | finished  cadd90-0-64082164 glide-dock_SP_1-0006 localhost [cadd90]
+16 27 11 | launched  cadd90-0-64082956 glide-dock_SP_1-0043 localhost [cadd90]
+17 26 11 | finished  cadd90-0-64082179 glide-dock_SP_1-0009 localhost [cadd90]
+17 27 10 | launched  cadd90-0-64082970 glide-dock_SP_1-0044 localhost [cadd90]
+18 26 10 | finished  cadd90-0-64082180 glide-dock_SP_1-0010 localhost [cadd90]
+18 27  9 | launched  cadd90-0-64082979 glide-dock_SP_1-0045 localhost [cadd90]
+19 26  9 | finished  cadd90-0-64082155 glide-dock_SP_1-0004 localhost [cadd90]
+19 27  8 | launched  cadd90-0-64082990 glide-dock_SP_1-0046 localhost [cadd90]
+20 26  8 | finished  cadd90-0-64082210 glide-dock_SP_1-0027 localhost [cadd90]
+20 27  7 | launched  cadd90-0-640829ab glide-dock_SP_1-0047 localhost [cadd90]
+21 26  7 | finished  cadd90-0-64082191 glide-dock_SP_1-0012 localhost [cadd90]
+21 27  6 | launched  cadd90-0-640829ce glide-dock_SP_1-0048 localhost [cadd90]
+22 26  6 | finished  cadd90-0-64082207 glide-dock_SP_1-0026 localhost [cadd90]
+22 27  5 | launched  cadd90-0-640829f9 glide-dock_SP_1-0049 localhost [cadd90]
+23 26  5 | finished  cadd90-0-640821fe glide-dock_SP_1-0025 localhost [cadd90]
+23 27  4 | launched  cadd90-0-64082a02 glide-dock_SP_1-0050 localhost [cadd90]
+24 26  4 | finished  cadd90-0-640821e2 glide-dock_SP_1-0022 localhost [cadd90]
+24 27  3 | launched  cadd90-0-64082a3c glide-dock_SP_1-0051 localhost [cadd90]
+25 26  3 | finished  cadd90-0-6408219f glide-dock_SP_1-0014 localhost [cadd90]
+25 27  2 | launched  cadd90-0-64082a52 glide-dock_SP_1-0052 localhost [cadd90]
+26 26  2 | finished  cadd90-0-64082189 glide-dock_SP_1-0011 localhost [cadd90]
+26 27  1 | launched  cadd90-0-64082a5b glide-dock_SP_1-0053 localhost [cadd90]
+27 26  1 | finished  cadd90-0-6408216b glide-dock_SP_1-0007 localhost [cadd90]
+27 27  0 | launched  cadd90-0-64082b83 glide-dock_SP_1-0054 localhost [cadd90]
+28 26  0 | finished  cadd90-0-6408272f glide-dock_SP_1-0029 localhost [cadd90]
+29 25  0 | finished  cadd90-0-64082727 glide-dock_SP_1-0028 localhost [cadd90]
+30 24  0 | finished  cadd90-0-64082925 glide-dock_SP_1-0039 localhost [cadd90]
+31 23  0 | finished  cadd90-0-64082824 glide-dock_SP_1-0032 localhost [cadd90]
+32 22  0 | finished  cadd90-0-64082b83 glide-dock_SP_1-0054 localhost [cadd90]
+33 21  0 | finished  cadd90-0-6408280e glide-dock_SP_1-0031 localhost [cadd90]
+34 20  0 | finished  cadd90-0-64082869 glide-dock_SP_1-0034 localhost [cadd90]
+35 19  0 | finished  cadd90-0-6408290b glide-dock_SP_1-0036 localhost [cadd90]
+36 18  0 | finished  cadd90-0-6408279f glide-dock_SP_1-0030 localhost [cadd90]
+37 17  0 | finished  cadd90-0-64082947 glide-dock_SP_1-0042 localhost [cadd90]
+38 16  0 | finished  cadd90-0-640828ef glide-dock_SP_1-0035 localhost [cadd90]
+39 15  0 | finished  cadd90-0-64082990 glide-dock_SP_1-0046 localhost [cadd90]
+40 14  0 | finished  cadd90-0-64082979 glide-dock_SP_1-0045 localhost [cadd90]
+41 13  0 | finished  cadd90-0-64082914 glide-dock_SP_1-0037 localhost [cadd90]
+42 12  0 | finished  cadd90-0-640829ab glide-dock_SP_1-0047 localhost [cadd90]
+43 11  0 | finished  cadd90-0-640829f9 glide-dock_SP_1-0049 localhost [cadd90]
+44 10  0 | finished  cadd90-0-64082a02 glide-dock_SP_1-0050 localhost [cadd90]
+45  9  0 | finished  cadd90-0-64082970 glide-dock_SP_1-0044 localhost [cadd90]
+46  8  0 | finished  cadd90-0-6408291d glide-dock_SP_1-0038 localhost [cadd90]
+47  7  0 | finished  cadd90-0-64082935 glide-dock_SP_1-0040 localhost [cadd90]
+48  6  0 | finished  cadd90-0-64082a52 glide-dock_SP_1-0052 localhost [cadd90]
+49  5  0 | finished  cadd90-0-64082850 glide-dock_SP_1-0033 localhost [cadd90]
+50  4  0 | finished  cadd90-0-640829ce glide-dock_SP_1-0048 localhost [cadd90]
+51  3  0 | finished  cadd90-0-64082a5b glide-dock_SP_1-0053 localhost [cadd90]
+52  2  0 | finished  cadd90-0-6408293f glide-dock_SP_1-0041 localhost [cadd90]
+53  1  0 | finished  cadd90-0-64082a3c glide-dock_SP_1-0051 localhost [cadd90]
+54  0  0 | finished  cadd90-0-64082956 glide-dock_SP_1-0043 localhost [cadd90]
+
+All jobs have completed.
+
+54 of 54 job(s) succeeded; 0 job(s) failed.
+
+All jobs succeeded: 5618 ligands done.
+Writing 5,484 poses to glide-dock_SP_1_pv.maegz; database holds 5,484 poses.
+Best docking score: -12.621
+Combining log files to glide-dock_SP_1_subjobs.log
+Archiving subjob pose files in glide-dock_SP_1_subjob_poses.zip
+Archiving subjob input and log files in glide-dock_SP_1_subjobs.tar.gz
+Cleaning up...
+
+Elapsed times:
+- preprocessing: 8.0 s
+- running subjobs: 4621.1 s
+- postprocessing: 7.1 s
+- cleanup: 0.7 s
+
+All Glide docking subjobs: Total CPU time = 58101 seconds (16 h 8 min 21 s)
+
+Finished at: Wed Mar  8 15:03:42 2023
+Total elapsed time for Glide script = 4637 seconds (1 h 17 min 17 s)
+[running at reduced cpu priority]

@@ -1,0 +1,4 @@
+FORCEFIELD   OPLS_2005
+GRIDFILE   /cadd2/users/wangxiao/docking/IRAK4/glide-grid_1/glide-grid_1.zip
+LIGANDFILE   glide-dock_SP_1.maegz
+PRECISION   SP
